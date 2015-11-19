@@ -1,5 +1,5 @@
 {
-    "distro": "fedora-23",
+    "distro": "fedora-20",
     "name": "sugar-build",
     "pypi_packages": [
         "pep8==1.5.1",
